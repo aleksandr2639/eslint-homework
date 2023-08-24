@@ -1,0 +1,28 @@
+{
+  "name": "eslint-homework",
+  "version": "1.0.0",
+  "description": "\"eslint-homework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandr2639/eslint-homework.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "aleksandr2639",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandr2639/eslint-homework/issues"
+  },
+  "homepage": "https://github.com/aleksandr2639/eslint-homework#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
